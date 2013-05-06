@@ -1,0 +1,164 @@
+/**
+ * User: u029337
+ * Date: 4/18/13
+ * Time: 5:39 PM
+ * Description: Sunglass Shop 2013 Styles
+ */
+
+#SunglassShop2013 {
+	position: relative;
+    height: 502px;
+    width: 742px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+#sun_topNav {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+#SunglassShop2013Start {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.TheSunglassShopIMAhover {
+    position: relative;
+    top: -482px;
+    left: 11px;
+    width: 86px;
+    height: 1px;
+    background-position: 0 0;
+    z-index: 9999;
+}
+
+.DiorIMAhover {
+    position: relative;
+    top: -482px;
+    left: 256px;
+    width: 29px;
+    height: 1px;
+    background-position: 0 0;
+    z-index: 9999;
+}
+
+.GucciIMAhover {
+    position: relative;
+    top: -482px;
+    left: 307px;
+    width: 35px;
+    height: 1px;
+    background-position: 0 0;
+    z-index: 9999;
+}
+
+.PradaIMAhover {
+    position: relative;
+    top: -482px;
+    left: 365px;
+    width: 40px;
+    height: 1px;
+    background-position: 0 0;
+    z-index: 9999;
+}
+
+.RayBanIMAhover {
+    position: relative;
+    top: -482px;
+    left: 427px;
+    width: 53px;
+    height: 1px;
+    background-position: 0 0;
+    z-index: 9999;
+}
+
+.TomFordIMAhover {
+    position: relative;
+    top: -482px;
+    left: 503px;
+    width: 60px;
+    height: 1px;
+    background-position: 0 0;
+    z-index: 9999;
+}
+.KateSpadeNewYorkIMAhover {
+    position: relative;
+    top: -482px;
+    left: 589px;
+    width: 143px;
+    height: 1px;
+    background-position: 0 0;
+    z-index: 9999;
+}
+
+.CatEyeIMAOverlay {
+    position: relative;
+    top: -474px;
+    left: 0;
+    width: 249px;
+    height: 237px;
+    z-index: 9999;
+    background-position: 0 0;
+    cursor: pointer;
+}
+
+.ShieldIMAOverlay {
+    position: relative;
+    top: -475px;
+    left: 250px;
+    width: 247px;
+    height: 238px;
+    z-index: 9999;
+    background-position: 0 -257px;
+    cursor: pointer;
+}
+
+.OversizedIMAOverlay {
+    position: relative;
+    top: -474px;
+    left: 496px;
+    width: 247px;
+    height: 237px;
+    z-index: 9999;
+    background-position: 0 -515px;
+    cursor: pointer;
+}
+.WayfarerIMAOverlay {
+    position: relative;
+    top: -237px;
+    left: 0;
+    width: 249px;
+    height: 237px;
+    z-index: 9999;
+    background-position: 0 -773px;
+    cursor: pointer;
+}
+
+.PolarizedIMAOverlay {
+    position: relative;
+    top: -237px;
+    left: 249px;
+    width: 248px;
+    height: 238px;
+    z-index: 9999;
+    background-position: 0 -1030px;
+    cursor: pointer;
+}
+
+.AviatorIMAOverlay {
+    position: relative;
+    top: -237px;
+    left: 496px;
+    width: 247px;
+    height: 237px;
+    z-index: 9999;
+    background-position: 0 -1287px;
+    cursor: pointer;
+}
+
